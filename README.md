@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubensmachado-dev" alt="rubensmachado-dev" /></a> </p>
 
-- 🔭 I’m currently working on [fastapi-tdd-docker](https://github.com/RubensMachado-Dev/BookstoreApi)
+- 🔭 I’m currently working on [fastapi-tdd-docker](https://github.com/RubensMachado-Dev/RubensMachado-Dev)
 
 - 🌱 I’m currently learning **FastAPI,Django and DRF**
 
